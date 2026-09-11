@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Amanda",
+    "lastName": "Whitfield",
+    "email": "amanda.whitfield@gmail.com",
+    "favoriteColor": "Teal",
+    "birthday": "1987-03-22"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Mendoza",
+    "email": "c.mendoza84@yahoo.com",
+    "favoriteColor": "Crimson",
+    "birthday": "1984-09-14"
+  },
+  {
+    "firstName": "Priya",
+    "lastName": "Raman",
+    "email": "priya.raman@outlook.com",
+    "favoriteColor": "Emerald",
+    "birthday": "1996-01-08"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Delgado",
+    "email": "marcus.delgado22@gmail.com",
+    "favoriteColor": "Navy",
+    "birthday": "1991-07-30"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Bennett",
+    "email": "olivia.bennett@icloud.com",
+    "favoriteColor": "Lavender",
+    "birthday": "1999-11-16"
+  }
+]
